@@ -1,0 +1,32 @@
+body {
+    padding:10px;
+    font-family:'Vend Sans';
+}
+
+.logo-MI{
+    color:#8DC728;
+    font-size:50px;
+    font-weight:bold;
+    margin:0;
+}
+
+.logo-MI .logo-HEALTH{
+    color:#CE2020;
+}
+
+nav {
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color:white;
+    margin:60px;
+}
+
+.nav-options{
+    width:30%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    margin-right:60px;
+}
